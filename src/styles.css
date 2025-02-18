@@ -1,0 +1,130 @@
+/* Background styles */
+.background {
+    background-image: url("../public/BackgroundHQ.png");
+    background-size: cover !important;
+    background-repeat: no-repeat;
+    background-position: top center;
+    min-width: 310% /*100vh;*/
+  }
+  
+  .background-title {
+    background-image: url("../public/Title.png");
+    background-size: 50% auto !important;
+    background-repeat: no-repeat;
+    background-position: top center;
+  }
+  
+  .background-branch {
+    background-image: url("../public/BranchAndPeopleFinal.png");
+    background-size: 65% auto !important;
+    background-repeat: no-repeat;
+    background-position: top left;
+  }
+
+.background-book {
+  display: flex;
+  flex-direction: column; /* 👈 Ensures elements are stacked */
+  align-items: center; /* 👈 Centers both image & text */
+  justify-content: center; /* 👈 Centers content vertically */
+  height: auto; /* 👈 Adapts to content size */
+  margin-top: 0; /* 👈 Removes negative margin */
+}
+
+.background-book img {
+  width: 30vw; /* 👈 Makes image responsive */
+  height: auto;
+}
+
+.background-book-text {
+  color: white;
+  text-align: center;
+  font-size: min(4vw, 1.8rem); /* 👈 Ensures responsive text */
+  margin-top: 2vh; /* 👈 Creates gap between image & text */
+}
+  
+  /* Typography */
+  .text-center {
+    text-align: center !important;
+    color: white;
+    padding: 30px !important;
+    font-size: min(3.5vw, 1.7rem) !important;
+    margin-top: clamp(1vh, 10vw, 80vh);
+    
+  }
+  
+  .price-text {
+    color: white;
+    margin-top: -220dvh;
+  }
+
+
+.order-text {
+  max-width: 90%;
+  text-align: center;
+  margin-bottom: 6vh !important; /* 👈 Adds space between text and icons */
+  font-size: min(3.5vw, 1.2rem) !important;
+  color: white;
+}
+
+.contact-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 600px;
+  margin: 4vh auto; /* 👈 Adds spacing between links */
+  text-decoration: none;
+}
+
+.contact-link img {
+  width: min(10vw, 60px); /* 👈 Ensures images scale */
+  height: auto;
+  margin-right: 10px !important;
+  margin-bottom: -10px !important;
+}
+
+.contact-link h2 {
+  font-size: min(4vw, 1.3rem);
+  text-align: top !important;
+  color: white;
+}
+
+   /* ---------------------------------------------- */
+
+  @media (max-width: 1024px) {
+    .contact-link {
+      margin-top: -5vh; /* 👈 Moves it up */
+    }
+   /* Tablets */
+    .contact-link img {
+        width: min(12vw, 50px); /* 👈 Adjust image size */
+    }
+
+    .contact-link h2 {
+        font-size: min(4vw, 1.3rem);
+    }
+
+    .order-text h2 {
+        font-size: min(3.5vw, 1.2rem);
+    }
+}
+
+  @media (max-width: 768px) { /* Phones */
+    .contact-link {
+        flex-direction: column; /* 👈 Stack items vertically */
+    }
+
+    .contact-link img {
+        width: min(15vw, 40px); /* 👈 Make images smaller */
+        margin-bottom: 5px;
+    }
+
+    .contact-link h2 {
+        font-size: min(4.5vw, 1.2rem);
+    }
+
+    .order-text h2 {
+        font-size: min(4vw, 1rem);
+        margin-bottom: 8vh !important; /* 👈 Increase space on smaller screens */
+    }
+  }
