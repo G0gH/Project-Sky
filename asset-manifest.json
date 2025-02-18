@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Project-Skynpm%20run%20deploy/static/css/main.1c3e6ede.css",
+    "main.js": "/Project-Skynpm%20run%20deploy/static/js/main.242dc6d2.js",
+    "static/js/488.b59b9262.chunk.js": "/Project-Skynpm%20run%20deploy/static/js/488.b59b9262.chunk.js",
+    "static/media/BackgroundHQ.png": "/Project-Skynpm%20run%20deploy/static/media/BackgroundHQ.8b44204b64c0c39ca0f5.png",
+    "static/media/BranchAndPeopleFinal.png": "/Project-Skynpm%20run%20deploy/static/media/BranchAndPeopleFinal.863ccc33ce9b2ba0cd1a.png",
+    "static/media/Title.png": "/Project-Skynpm%20run%20deploy/static/media/Title.4b3d9ff40076f955589c.png",
+    "index.html": "/Project-Skynpm%20run%20deploy/index.html",
+    "main.1c3e6ede.css.map": "/Project-Skynpm%20run%20deploy/static/css/main.1c3e6ede.css.map",
+    "main.242dc6d2.js.map": "/Project-Skynpm%20run%20deploy/static/js/main.242dc6d2.js.map",
+    "488.b59b9262.chunk.js.map": "/Project-Skynpm%20run%20deploy/static/js/488.b59b9262.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c3e6ede.css",
+    "static/js/main.242dc6d2.js"
+  ]
+}
