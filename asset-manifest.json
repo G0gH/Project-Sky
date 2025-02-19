@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Project-Sky/static/css/main.8e0d3824.css",
-    "main.js": "/Project-Sky/static/js/main.b22cf81c.js",
+    "main.js": "/Project-Sky/static/js/main.33ff620d.js",
     "static/js/488.b59b9262.chunk.js": "/Project-Sky/static/js/488.b59b9262.chunk.js",
     "static/media/BackgroundHQ.png": "/Project-Sky/static/media/BackgroundHQ.8b44204b64c0c39ca0f5.png",
     "static/media/BranchAndPeopleFinal.png": "/Project-Sky/static/media/BranchAndPeopleFinal.863ccc33ce9b2ba0cd1a.png",
     "static/media/Title.png": "/Project-Sky/static/media/Title.4b3d9ff40076f955589c.png",
     "index.html": "/Project-Sky/index.html",
     "main.8e0d3824.css.map": "/Project-Sky/static/css/main.8e0d3824.css.map",
-    "main.b22cf81c.js.map": "/Project-Sky/static/js/main.b22cf81c.js.map",
+    "main.33ff620d.js.map": "/Project-Sky/static/js/main.33ff620d.js.map",
     "488.b59b9262.chunk.js.map": "/Project-Sky/static/js/488.b59b9262.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8e0d3824.css",
-    "static/js/main.b22cf81c.js"
+    "static/js/main.33ff620d.js"
   ]
 }
