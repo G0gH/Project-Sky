@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.1df7381d.css",
-    "main.js": "/static/js/main.680b001a.js",
+    "main.js": "/static/js/main.a7d513e0.js",
     "static/js/488.b59b9262.chunk.js": "/static/js/488.b59b9262.chunk.js",
     "static/media/BackgroundHQ.png": "/static/media/BackgroundHQ.8b44204b64c0c39ca0f5.png",
     "static/media/BranchAndPeopleFinal.png": "/static/media/BranchAndPeopleFinal.863ccc33ce9b2ba0cd1a.png",
     "static/media/Title.png": "/static/media/Title.4b3d9ff40076f955589c.png",
     "index.html": "/index.html",
     "main.1df7381d.css.map": "/static/css/main.1df7381d.css.map",
-    "main.680b001a.js.map": "/static/js/main.680b001a.js.map",
+    "main.a7d513e0.js.map": "/static/js/main.a7d513e0.js.map",
     "488.b59b9262.chunk.js.map": "/static/js/488.b59b9262.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1df7381d.css",
-    "static/js/main.680b001a.js"
+    "static/js/main.a7d513e0.js"
   ]
 }
